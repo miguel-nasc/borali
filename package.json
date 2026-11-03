@@ -1,0 +1,23 @@
+{
+  "name": "borali",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Borali - cadastro, reserva e avaliação de passeios com guias locais",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fontsource/poppins": "^5.3.0",
+    "bcryptjs": "^3.0.3",
+    "jose": "^6.2.0",
+    "next": "^15.5.29",
+    "pg": "^8.16.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.0"
+  }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="152" viewBox="30 16 120 152" role="img" aria-label="Borali - ícone simples">
+<title>Borali - ícone simples</title>
+<g transform="translate(20 14)">
+<path d="M70 6 C38 6 14 30 14 62 C14 100 70 150 70 150 C70 150 126 100 126 62 C126 30 102 6 70 6 Z" fill="#08877F"/>
+<path d="M70 6 C102 6 126 30 126 62 C126 100 70 150 70 150 Z" fill="#0DA196"/>
+<circle cx="70" cy="62" r="33" fill="#FFFFFF"/>
+<path d="M54 62 H84 M71 47 L86 62 L71 77" fill="none" stroke="#FF7A2F" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
